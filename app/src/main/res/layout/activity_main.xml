@@ -14,7 +14,7 @@
     android:layout_gravity="start"
     android:fitsSystemWindows="true"
     android:id="@+id/navigation"
-    app:headerLayout=""
+    app:headerLayout="@layout/header_lay"
     />
 
 
