@@ -28,7 +28,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="20dp"
             android:text="Take quizzes and test your knowledge"
-            android:textColor="@color/purple_500"
+
             android:textSize="18sp" />
 
         <Button
